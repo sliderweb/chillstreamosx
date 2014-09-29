@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CGPDeviceType</key>
+	<string>XBox</string>
+	<key>VendorID</key>
+	<integer>0x046d</integer>
+	<key>ProductID</key>
+	<integer>0xc242</integer>
+	<key>LeftAxisX</key>
+	<string>1:48</string>
+	<key>LeftAxisY</key>
+	<string>1:49</string>
+	<key>LeftTrigger</key>
+	<string>1:50</string>
+	<key>RightAxisX</key>
+	<string>1:51</string>
+	<key>RightAxisY</key>
+	<string>1:52</string>
+	<key>RightTrigger</key>
+	<string>1:53</string>
+	<key>ButtonA</key>
+	<string>9:1</string>
+	<key>ButtonB</key>
+	<string>9:2</string>
+	<key>ButtonX</key>
+	<string>9:3</string>
+	<key>ButtonY</key>
+	<string>9:4</string>
+	<key>LeftShoulder</key>
+	<string>9:5</string>
+	<key>RightShoulder</key>
+	<string>9:6</string>
+	<key>LeftThumb</key>
+	<string>9:7</string>
+	<key>RightThumb</key>
+	<string>9:8</string>
+	<key>ButtonStart</key>
+	<string>9:9</string>
+	<key>ButtonBack</key>
+	<string>9:10</string>
+	<key>ButtonDevice</key>
+	<string>9:11</string>
+	<key>DPadUp</key>
+	<string>9:12</string>
+	<key>DPadDown</key>
+	<string>9:13</string>
+	<key>DPadLeft</key>
+	<string>9:14</string>
+	<key>DPadRight</key>
+	<string>9:15</string>
+</dict>
+</plist>
